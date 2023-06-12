@@ -1,0 +1,108 @@
+{
+	"basic_info": {
+		"description_header": "Hi",
+		"description": "4th year student at Başkent University with a focus on translation and interpreting, specializing in the linguistics branch. Previously served as the Head of the Translation Society at Başkent University, demonstrating leadership skills and a passion for language-related activities.\nDuring my studies, I developed a keen interest in neurolinguistics and psycholinguistics, which deepened my understanding of language processing and cognition. Additionally, my previous background in engineering, with two years of study, sparked my curiosity in computational linguistics and NLP, inspiring me to explore the intersection of language and technology.\nTo enhance my skills in this area, I obtained certificates from the Python Institute, including PCEP, PCAP, and PCPP1-2, further solidifying my programming abilities and proficiency in Python.\nCurrently, I am focusing on expanding my knowledge in NLP and its applications. With a strong foundation in linguistics and a growing expertise in computational linguistics and NLP, I am eager to contribute to the development of innovative language technologies.\nCombining my academic achievements, leadership experience, and technical skills, I aim to bridge the gap between language and technology in the field of NLP.\nAs a dedicated learner with a passion for exploring the potentials of language and technology, I am excited to take on new challenges and make a meaningful impact in the realm of NLP.",
+		"section_name": {
+			"about": "About me",
+			"projects": "Projects",
+			"skills": "Skills",
+			"experience": "Experience"
+		}
+	},
+	"projects": [
+		{
+			"title": "Languages",
+			"startDate": "2020",
+			"description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+			"images": [
+				"images/portfolio/animal-shelter/p1.jpg",
+				"images/portfolio/animal-shelter/p2.jpg"
+			],
+			"url": "",
+			"technologies": [
+				{
+					"class": "devicon-angularjs-plain",
+					"name": "Angular"
+				},
+				{
+					"class": "devicon-typescript-plain",
+					"name": "TypeScript"
+				},
+				{
+					"class": "devicon-csharp-plain",
+					"name": "C#"
+				}
+			]
+		},
+		{
+			"title": "Interests",
+			"startDate": "2018",
+			"description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+			"images": [
+				"images/portfolio/photography/p1.jpg",
+				"images/portfolio/photography/p2.jpg"
+			],
+			"url": "https://github.com",
+			"technologies": [
+				{
+					"class": "devicon-react-original",
+					"name": "React"
+				},
+				{
+					"class": "devicon-javascript-plain",
+					"name": "JavaScript"
+				}
+			]
+		},
+		{
+			"title": "Education",
+			"startDate": "2015",
+			"description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+			"images": [
+				"images/portfolio/adventure/p1.jpg",
+				"images/portfolio/adventure/p2.jpg"
+			],
+			"url": "https://github.com",
+			"technologies": [
+				{
+					"class": "devicon-angularjs-plain",
+					"name": "Angular"
+				},
+				{
+					"class": "devicon-typescript-plain",
+					"name": "TypeScript"
+				},
+				{
+					"class": "devicon-csharp-plain",
+					"name": "C#"
+				}
+			]
+		}
+	],
+	"experience": [
+		{
+			"company": "DefOpenSource",
+			"title": "Front-End Developer",
+			"years": "10.2019 - present",
+			"mainTech": ["Angular 8/9/10"],
+			"technologies": [
+				"REST API",
+				"RxJS",
+				"JavaScript",
+				"Bootstrap",
+				"MDBootstrap",
+				"EF Core",
+				".NET Core",
+				"SignalR",
+				"Angular Material"
+			]
+		},
+		{
+			"company": "Serros Solutions",
+			"title": "Intern",
+			"years": "01.2018 - 09.2019",
+			"mainTech": ["Angular 7/8"],
+			"technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+		}
+	]
+}
