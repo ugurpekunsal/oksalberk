@@ -72,22 +72,6 @@ class Header extends Component {
 								uncheckedIcon={
 									<span
 										className="iconify"
-										data-icon="twemoji:owl"
-										data-inline="false"
-										style={{
-											display: "block",
-											height: "100%",
-											fontSize: 25,
-											textAlign: "end",
-											marginLeft: "20px",
-											color: "#353239",
-										}}
-									></span>
-								}
-								checkedIcon={
-									<span
-										className="iconify"
-										data-icon="noto-v1:sun-with-face"
 										data-inline="false"
 										style={{
 											display: "block",
@@ -96,8 +80,30 @@ class Header extends Component {
 											textAlign: "end",
 											marginLeft: "10px",
 											color: "#353239",
+											color: "transparent",
+											textShadow: "0 0 0 white",
 										}}
-									></span>
+									>
+										&#127769;
+									</span>
+								}
+								checkedIcon={
+									<span
+										className="iconify"
+										data-inline="false"
+										style={{
+											display: "block",
+											height: "100%",
+											fontSize: 25,
+											textAlign: "end",
+											marginLeft: "5px",
+											color: "#353239",
+											color: "transparent",
+											textShadow: "0 0 0 #fcd53f",
+										}}
+									>
+										&#x2600;
+									</span>
 								}
 								id="icon-switch"
 							/>
