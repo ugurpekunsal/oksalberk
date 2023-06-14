@@ -14,7 +14,7 @@
 			"title": "Languages",
 			"startDate": "Hello",
 			"description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-			"images": ["images/portfolio/languages.png"],
+			"images": ["images/portfolio/languages.jpeg"],
 			"url": "",
 			"technologies": [
 				{
@@ -55,10 +55,7 @@
 			"title": "Education",
 			"startDate": "2015",
 			"description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-			"images": [
-				"images/portfolio/adventure/p1.jpg",
-				"images/portfolio/adventure/p2.jpg"
-			],
+			"images": ["images/portfolio/education.jpg"],
 			"url": "https://github.com",
 			"technologies": [
 				{
@@ -78,28 +75,38 @@
 	],
 	"experience": [
 		{
-			"company": "DefOpenSource",
-			"title": "Front-End Developer",
-			"years": "10.2019 - present",
-			"mainTech": ["Angular 8/9/10"],
-			"technologies": [
-				"REST API",
-				"RxJS",
-				"JavaScript",
-				"Bootstrap",
-				"MDBootstrap",
-				"EF Core",
-				".NET Core",
-				"SignalR",
-				"Angular Material"
-			]
+			"company": "Atilim University - (Unfinished)",
+			"title": "Mechanical Engineering Studies",
+			"years": "2016 - 2019",
+			"mainTech": ["Student"],
+			"technologies": []
 		},
 		{
-			"company": "Serros Solutions",
-			"title": "Intern",
-			"years": "01.2018 - 09.2019",
-			"mainTech": ["Angular 7/8"],
-			"technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+			"company": "Baskent University",
+			"title": "English Translation and Interpreting",
+			"years": "2023 - 2024",
+			"mainTech": ["Student"],
+			"technologies": []
+		},
+		{
+			"company": "Turkiye Petrolleri Anonim Ofisi",
+			"title": "",
+			"years": "2023 - 2023",
+			"mainTech": ["Intern"],
+			"technologies": []
+		},
+		{
+			"company": "Bilge Adam",
+			"title": "Backend Application Development Certificate Program",
+			"years": "2023 - 2024",
+			"mainTech": ["Student"],
+			"technologies": [
+				"Python",
+				"Django",
+				"MongoDB",
+				"Machine Learning",
+				"Deep Learning"
+			]
 		}
 	]
 }

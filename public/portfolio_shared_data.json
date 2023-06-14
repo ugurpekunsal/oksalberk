@@ -1,7 +1,7 @@
 {
 	"basic_info": {
 		"name": "Yılmaz Berk Oksal",
-		"titles": ["Software development", "Lingusitics", ""],
+		"titles": ["Software development", "Lingusitics", "Gucci gang"],
 		"social": [
 			{
 				"name": "github",
@@ -12,6 +12,11 @@
 				"name": "instagram",
 				"url": "https://www.instagram.com/oksalberk/",
 				"class": "fab fa-instagram"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/y%C4%B1lmaz-berk-oksal-8b95051b4/",
+				"class": "fab fa-linkedin"
 			}
 		],
 		"image": "myProfile.jpg"
@@ -42,11 +47,6 @@
 				"name": "Git",
 				"class": "devicon-git-plain",
 				"level": "70"
-			},
-			{
-				"name": "Visual Studio",
-				"class": "devicon-visualstudio-plain",
-				"level": "75"
 			},
 			{
 				"name": "HTML5",
